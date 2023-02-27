@@ -4,7 +4,7 @@
 ![Hirable Badge](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen)
 
 
-I'm a software engineer with over five years of experience. I love building large scale web & mobile applications with a focus on clean & maintainable code. I've been working with JavaScript/Typescript (React, React Native, Next.js, Node, Deno), Python among others.
+I'm a software engineer with over five years of experience. I love building large scale web & mobile applications with a focus on clean & maintainable code. I've been working with JavaScript/Typescript (React, React Native, Next.js, Node) & Python among others.
 
 ### Technologies I'm familiar with
 <p>
