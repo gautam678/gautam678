@@ -1,7 +1,7 @@
 # Hello, I'm Gautam 👋
 [![GitHub followers](https://img.shields.io/github/followers/gautam678?label=Follow&style=social)](https://github.com/gautam678/?tab=follow)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/gautamsomappa/)](https://www.linkedin.com/in/gautamsomappa/)
-![Hirable Badge](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen)
+![Hirable Badge](https://img.shields.io/badge/Open%20to%20Work-No-brightred)
 
 
 I'm a software engineer with over five years of experience. I love building large scale web & mobile applications with a focus on clean & maintainable code. I've been working with JavaScript/Typescript (React, React Native, Next.js, Node) & Python among others.
